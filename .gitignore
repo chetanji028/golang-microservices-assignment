@@ -1,0 +1,13 @@
+# Ignore Go build files
+bin/
+obj/
+*.exe
+*.out
+*.test
+# Ignore dependency files
+vendor/
+# Ignore environment files
+# Ignore cache files
+cache/
+config.bat
+node_modules
